@@ -8,7 +8,7 @@
 
 I'm a software dev of many fields. I'm a passionate learner who's always seeking knowledge of new technologies and domains 💡. I love to explore new tech and leverage them to solve real-life problems (See [flatbot](https://github.com/BLovegrove/flatbot) and [boomer](https://github.com/BLovegrove/boomer)) ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on cert. for test engineering.
 
-I joined Github in **2017**.
+'git-commit-sync'ing since **2017**.
 
 Like My Work?
 
