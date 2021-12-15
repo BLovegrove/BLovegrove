@@ -83,12 +83,12 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use day-to-day</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Pop!_OS 21.04</li>
+  	    <li><b>OS:</b> Pop!_OS 21.10</li>
 	    <li><b>Desktop: </b> Homebuilt i7-6900k, Radeon RX580</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
 	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated:</b>Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b>Linkedin.</li>
 	    <br />
 	</ul>	
 </details>
