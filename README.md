@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Brandon Ash Lovegrove!](https://github.com/BLovegrove) <sub>(Yes, Ash as in Ash from Pokemon)</sub>
+## Hey 👋, I'm [Brandon Ash Lovegrove!](https://github.com/BLovegrove) <sub>(Yes, Ash as in Ash-from-Pokemon)</sub>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-lovegrove-5ab4181a0/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://blovegrove.github.io/)
