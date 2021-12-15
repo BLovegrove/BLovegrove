@@ -72,7 +72,7 @@ Like My Work?
         <td><img alt="Forks" src="https://img.shields.io/github/forks/blovegrove/boomer?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/blovegrove/boomer?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/blovegrove/boomer?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+        <td><img alt="Language" src="https://img.shields.io/badge/python-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
