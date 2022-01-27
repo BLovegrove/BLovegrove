@@ -88,7 +88,7 @@ Like My Work?
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
 	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated:</b>Linkedin.</li>
+	    <li><b>To Stay Updated: </b>Linkedin.</li>
 	    <br />
 	</ul>	
 </details>
