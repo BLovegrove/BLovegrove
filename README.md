@@ -80,7 +80,7 @@ Like My Work?
         <td><img alt="Forks" src="https://img.shields.io/github/forks/blovegrove/cpr-tools?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/blovegrove/cpr-tools?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/blovegrove/cpr-tools?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/AutoHotKey-100%25-green?style=flat-square"/></td> 
+        <td><img alt="Language" src="https://img.shields.io/badge/AutoHotKey-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
