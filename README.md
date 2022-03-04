@@ -19,7 +19,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Python, C#, Java, <br /> Mongodb, PHP, etc.
 - 🚀 &nbsp; I’m currently learning Unity Game Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BLovegrove).
-- 👾 &nbsp; Fun fact: Nobody ever remembers these for more than a few seconds so I'll leave this instead :)
+- 👾 &nbsp; Fun fact: Most don't read these but if you are - thank you and have a good day!
 - 📫 &nbsp; How to reach me: b.lovegrove.wsd@gmail.com.
 - 📝 &nbsp; Checkout my Resume (WIP).
 
