@@ -1,8 +1,7 @@
-## Hey 👋, I'm [Brandon Ash Lovegrove!](https://github.com/BLovegrove) <sub>(Yes, Ash as in Ash-from-Pokemon)</sub>
+## Hey 👋, I'm [Brandy Ash Lovegrove!](https://github.com/BLovegrove) <sub>(Yes, Ash as in Ash-from-Pokemon)</sub>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-lovegrove-5ab4181a0/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://blovegrove.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/B_A_Lovegrove)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=blovegrove.blovegrove&style=flat-square&color=0088cc)
 
@@ -20,7 +19,7 @@ Like My Work?
 - 🚀 &nbsp; I’m currently learning Unity Game Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BLovegrove).
 - 👾 &nbsp; Fun fact: Most don't read these but if you are - thank you and have a good day!
-- 📫 &nbsp; How to reach me: b.lovegrove.wsd@gmail.com.
+- 📫 &nbsp; How to reach me: brandy@lovegrove.co.nz
 - 📝 &nbsp; Checkout my Resume (WIP).
 
 ### Languages and Tools:
