@@ -1,8 +1,5 @@
 ## Hey 👋, I'm [Brandy Ash Lovegrove!](https://github.com/BLovegrove) <sub>(Yes, Ash as in Ash-from-Pokemon)</sub>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-lovegrove-5ab4181a0/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://blovegrove.github.io/)
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=blovegrove.blovegrove&style=flat-square&color=0088cc)
 
 I'm a software dev of many fields. I'm a passionate learner who's always seeking knowledge of new technologies and domains 💡. I love to explore new tech and leverage them to solve real-life problems (See [Neopets-R-Us](https://github.com/BLovegrove/Neopets-R-Us) and [boomer](https://github.com/BLovegrove/boomer)). Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on developing my own game.
