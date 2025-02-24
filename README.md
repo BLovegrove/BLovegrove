@@ -36,7 +36,7 @@ Like My Work?
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>🚀 Open Source Projects</b></summary>
 
   <br />
   <table>
@@ -70,20 +70,6 @@ Like My Work?
     </tbody>
   </table>
   <br />
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use day-to-day</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Pop!_OS 21.10</li>
-	    <li><b>Desktop: </b> Homebuilt i7-6900k, Radeon RX580</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
-	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated: </b>Linkedin.</li>
-	    <br />
-	</ul>	
 </details>
 
 #
