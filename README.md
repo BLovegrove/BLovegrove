@@ -1,8 +1,8 @@
-## Hey 👋, I'm [Brandy Ash Lovegrove!](https://github.com/BLovegrove) <sub>(Yes, Ash as in Ash-from-Pokemon)</sub>
+## Hey 👋, I'm [Brandy Rose Lovegrove!](https://github.com/BLovegrove)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=blovegrove.blovegrove&style=flat-square&color=0088cc)
 
-I'm a software dev of many fields. I'm a passionate learner who's always seeking knowledge of new technologies and domains 💡. I love to explore new tech and leverage them to solve real-life problems (See [Neopets-R-Us](https://github.com/BLovegrove/Neopets-R-Us) and [boomer](https://github.com/BLovegrove/boomer)). Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on developing my own game.
+I'm a software dev of many fields. I'm a passionate learner who's always seeking knowledge of new technologies and domains 💡. I love to explore new tech and leverage them to solve real-life problems (See [Neopets-R-Us](https://github.com/BLovegrove/Neopets-R-Us) and [boomer](https://github.com/BLovegrove/boomer)). Apart from that I also love to guide and mentor newbies. I'm currently doing the classic hobby dev thing of starting too many projects and finishing none of them.
 
 'git-commit-sync'ing since **2017**.
 
@@ -12,22 +12,11 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Python, C#, Java, <br /> Mongodb, PHP, etc.
-- 🚀 &nbsp; I’m currently learning Unity Game Development.
+- 🛠 &nbsp; I’m currently working with Python and about 100 other thigns I've forgotten. I dabble a lot.
+- 🚀 &nbsp; I’m currently learning Unity Game Development (when I can).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BLovegrove).
 - 👾 &nbsp; Fun fact: Most don't read these but if you are - thank you and have a good day!
 - 📫 &nbsp; How to reach me: brandy@lovegrove.co.nz
-- 📝 &nbsp; Checkout my Resume (WIP).
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 
 ### Projects and Dev Stuff:
 
