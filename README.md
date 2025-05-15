@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Brandy Rose Lovegrove!
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=blovegrove.blovegrove&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![Visits](https://visitor-badge.glitch.me/badge?page_id=blovegrove.blovegrove&style=flat-square&color=0088cc)
 
 I'm a software dev of many fields. I'm a passionate learner who's always seeking knowledge of new technologies and domains. I love to explore new tech and leverage them to solve real-life problems (See [Neopets-R-Us](https://github.com/BLovegrove/Neopets-R-Us) and [boomer](https://github.com/BLovegrove/boomer)). Apart from that I also love to guide and mentor newbies. I'm currently doing the classic hobby dev thing of starting too many projects and finishing none of them.
 
